@@ -1,0 +1,19 @@
+{
+  "author": "",
+  "description": "",
+  "folders": [
+    {
+      "path": "/Users/gregoryew/Desktop/Node Course/web-server"
+    }
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "web-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.13.2"
+  }
+}
